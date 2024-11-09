@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: RoadaccidentPrediction
+Version: 0.0.1
+Author: Tharun
+Author-email: tharunlingali@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn

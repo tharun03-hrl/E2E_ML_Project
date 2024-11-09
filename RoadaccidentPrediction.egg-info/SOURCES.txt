@@ -1,0 +1,8 @@
+README.md
+setup.py
+RoadaccidentPrediction.egg-info/PKG-INFO
+RoadaccidentPrediction.egg-info/SOURCES.txt
+RoadaccidentPrediction.egg-info/dependency_links.txt
+RoadaccidentPrediction.egg-info/requires.txt
+RoadaccidentPrediction.egg-info/top_level.txt
+src/__init__.py
